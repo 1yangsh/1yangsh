@@ -11,7 +11,7 @@ About me:
 
 👨🏻‍💻  ***BLOG*** → [![Blog Badge](http://img.shields.io/badge/Blog-%2391A8D1?style=flat&logo=Blogger&logoColor=white&link=https://velog.io/@1yangsh)](https://velog.io/@1yangsh)
 
-📝  ***RESUME*** → [![Notion Badge](http://img.shields.io/badge/Notion-%2391A8D1?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/seunghyeonyang38cac6c153a24281893df21313e82c22/Seunghyeon-Yang-38cac6c153a24281893df21313e82c22)](https://www.notion.so/seunghyeonyang38cac6c153a24281893df21313e82c22/Seunghyeon-Yang-38cac6c153a24281893df21313e82c22)
+
 
 
 
