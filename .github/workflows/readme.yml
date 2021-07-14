@@ -11,26 +11,21 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v2
         with:
-          github_user_name: 1yangsh
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          node-version: 14
+      - run: npm install
 
-      - run: git status
+      - name: Generate readme
+        run: node build-svg.js
 
-      - name: Push changes
-        uses: ad-m/github-push-action@master
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
-          force: true
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
+          author_name: 1yangsh
+          author_email: ysh410@gmail.com
+          message: "Auto updating my readme"
+          add: "*.svg"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
