@@ -1,6 +1,6 @@
 ## Seunghyeon Yang 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&l&link=https://www.linkedin.com/in/yangseunghyeon/)]([https://www.linkedin.com/in/yangseunghyeon/](https://www.linkedin.com/in/yangseunghyeon/))
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yangseunghyeon/)](https://www.linkedin.com/in/yangseunghyeon/)
 <br/>
 [![Blog Badge](http://img.shields.io/badge/-Blog-20C997??style=flat-square&logo=Velog&logoColor=white&l&link=https://1yangsh-blog.vercel.app/)](https://1yangsh-blog.vercel.app/)
 [![Notion Badge](http://img.shields.io/badge/Notion-%2391A8D1?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/1yangsh/8fa014fa9f1b4ed2a4d543defb9794ec)](https://www.notion.so/1yangsh/8fa014fa9f1b4ed2a4d543defb9794ec)
