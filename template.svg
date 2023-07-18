@@ -373,6 +373,6 @@
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-6">
     <rect width="250" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27"><a xlink:href="https://velog.io/@1yangsh/">https://velog.io/@1yangsh</a> </text>
+    <text x="15" y="27"><a xlink:href="https://1yangsh-blog.vercel.app/">https://1yangsh-blog.vercel.app/</a> </text>
   </g>
 </svg>
