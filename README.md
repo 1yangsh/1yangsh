@@ -4,7 +4,7 @@
 <br/>
 [![Blog Badge](http://img.shields.io/badge/-Blog-20C997??style=flat-square&logo=Velog&logoColor=white&l&link=https://1yangsh.dev/)](https://1yangsh.dev/)
 [![Notion Badge](http://img.shields.io/badge/Notion-%2391A8D1?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/1yangsh/8fa014fa9f1b4ed2a4d543defb9794ec)](https://www.notion.so/1yangsh/8fa014fa9f1b4ed2a4d543defb9794ec)
-[![Instagram Badge](http://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/yangsh_/)](https://www.instagram.com/yangsh/)
+[![Instagram Badge](http://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/yangsh_/)](https://www.instagram.com/yangsh_/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:ysh410@gmail.com)](mailto:ysh410@gmail.com)
 
 
