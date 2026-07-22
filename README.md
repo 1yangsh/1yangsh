@@ -8,7 +8,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:ysh410@gmail.com)](mailto:ysh410@gmail.com)
 
 
-[![](https://github.com/1yangsh/1yangsh/blob/main/chat.svg)](https://1yangsh.dev)
+[![](https://github.com/1yangsh/1yangsh/blob/main/chat.svg)](https://1yangsh.github.io/)
 
 
 ![](https://github.com/1yangsh/1yangsh/blob/output/github-contribution-grid-snake.svg)
