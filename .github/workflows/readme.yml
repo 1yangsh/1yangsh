@@ -1,36 +1,33 @@
-name: Update readme
+name: Generate Snake
 
 on:
   schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-   build:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: Generate snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: 1yangsh
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - run: git status
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
-          force: true
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
           build_dir: dist
+          target_branch: output
+          commit_message: Update snake animation
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
