@@ -249,8 +249,8 @@
 
   <!-- Hi, I'm Jason -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="200" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm Seunghyeon</text>
+    <rect width="210" height="42" rx="18.0355" />
+    <text x="15" y="27">Hi, I'm Seunghyeon 🙂 </text>
   </g>
 
   <!-- typing 2 -->
@@ -274,8 +274,8 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="420" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Software Engineer and building server, platform</text>
-    <text x="15" y="50">data pipelines, ETL (Extract / Transform / Load)</text>
+    <text x="15" y="27">Software Engineer focused on reliable systems</text>
+    <text x="15" y="50">and scalable data pipelines. </text>
   </g>
 
   <!-- typing 3 -->
@@ -299,8 +299,8 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="500" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I'm very interested in system design and DB optimization.</text>    
-    <text x="15" y="50">writing blogs and meaningful projects</text>
+    <text x="15" y="27">Always up for a conversation about data, engineering,</text>
+    <text x="15" y="50">or interesting technical problems and opportunities.</text>
   </g>
 
 
@@ -324,8 +324,8 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="325" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I run Python UserGroup in Korea</text>    
+    <rect width="150" height="42.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Thank you :) </text>    
   </g>
 
   <!-- typing 5 -->
@@ -349,7 +349,7 @@
   <!-- Have a great... -->
   <g transform="translate(10, 240)" class="msg-5">
     <rect width="325" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">My blog can be checked here.</text>
+    <text x="15" y="27">You can learn more about me here.</text>
   </g>
   
 
@@ -372,7 +372,7 @@
 
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-6">
-    <rect width="200" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27"><a xlink:href="https://1yangsh.dev/">https://1yangsh.dev/</a> </text>
+    <rect width="250" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27"><a xlink:href="https://1yangsh.github.io/">https://1yangsh.github.io/</a> </text>
   </g>
 </svg>
